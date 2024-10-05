@@ -8,7 +8,7 @@ If you don't know what is it it's basically the interior of a cheap ahh wireless
 https://github.com/user-attachments/assets/d88de123-cf13-4aa3-9475-1eb37810d414
 
 And there is some free space in the laptop right here for extra hdd and I won't use it for something else.
-![image]([image.png](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/373890351-cb629573-6768-4c58-aaf6-7cf532b1ea70.jpg))
+![alt text](media/373890351-cb629573-6768-4c58-aaf6-7cf532b1ea70.jpg)
 
 So hear me out, what if i stuffed the charger inside the laptop?
 
