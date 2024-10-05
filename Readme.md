@@ -2,10 +2,10 @@
 **Here we go**
 
 So I have this thing for some reason,
-https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/373889982-82c4d542-aa8b-4d90-a926-e7adbf9fdebd.mp4
+![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/1.mp4)
 
 If you don't know what is it it's basically the interior of a cheap ahh wireless charger.
-https://github.com/user-attachments/assets/d88de123-cf13-4aa3-9475-1eb37810d414
+![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/2.mp4)
 
 And there is some free space in the laptop right here for extra hdd and I won't use it for something else.
 ![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/3.jpg)
@@ -19,7 +19,7 @@ I could upgrade the battery for a bigger one but nah I'm good for now.
 
 Position the coil under the antenna sheet because blocks the magnetic field needed for wireless charging and testing:
 ![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/5.jpg)
-https://github.com/user-attachments/assets/f765de65-845f-469c-8141-3199e443bb1e
+![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/6.mp4)
 
 it will take energy from a usb connecter in this pcb over here so i disconnected it:
 ![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/7.jpg)
@@ -40,4 +40,4 @@ and
 ![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/13.jpg)
 
 so everything is done now im so happy with the results.
-https://github.com/user-attachments/assets/ed61727c-b95c-4adf-acfa-1ca326576b35
+![alt text](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/14.mp4)
