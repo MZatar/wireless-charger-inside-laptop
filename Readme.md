@@ -2,7 +2,9 @@ Ok
 Here we go
 
 so I have this thing for some fucking reason.
-https://github.com/user-attachments/assets/82c4d542-aa8b-4d90-a926-e7adbf9fdebd
+<video width="320" height="240" controls>
+  <source src="[video.mov](https://github.com/MZatar/wireless-charger-inside-laptop/blob/main/media/373889982-82c4d542-aa8b-4d90-a926-e7adbf9fdebd.mp4)" type="video/mp4">
+</video>
 
 If you don't know what is it it's basically the interior of a cheap ahh wireless charger.
 https://github.com/user-attachments/assets/d88de123-cf13-4aa3-9475-1eb37810d414
